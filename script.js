@@ -14,7 +14,6 @@ let wheather = {
     const { icon, description } = data.weather[0];
     const { temp, humidity } = data.main;
     const { speed } = data.wind;
-  console.log(name,icon,description,temp,humidity,speed);
   document.querySelector(".city").innerText = "Wheather in " + name;
   document.querySelector(".icon").src = "https://openweathermap.org/img/wn/"+ icon + ".png"; 
   document.querySelector(".description").innerText = description;
@@ -30,3 +29,9 @@ let wheather = {
 document.querySelector(".search button").addEventListener("click", function () {
   wheather.search();
 } )
+
+document.querySelector(".search-bar").addEventListener("keyup", function (event) {
+  if (event.key == "Enter") {
+    wheather.search();
+  }
+})
