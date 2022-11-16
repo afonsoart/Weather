@@ -6,15 +6,15 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 </p>
 
-<h2><strong>Technologies :</strong></h2>
+<h2><strong>Tecnologias: </strong></h2>
 <p>:heavy_check_mark: HTML, CSS, JS</p>
 <h2><strong>APIs :</strong></h2>
 <p>:white_circle: <a href="https://openweathermap.org/api">Weather API - OpenWeatherMap</a></p>
 <p>:white_circle: <a href="https://unsplash.com/developers">Background Images - Unsplash Developers</a></p>
 
-<h2><strong>Deploy</strong></h2>
+<h2><strong>Página da aplicação</strong></h2>
 <h3>:link: <a href="https://www.youtube.com/@DevProTips">Weather Web Page</a></h3>
 
-<h2><strong>Taught by :</strong></h2>
+<h2><strong>Ensinado por:</strong></h2>
 <p>:white_circle: <a href="https://www.youtube.com/@DevProTips">
 Jonah Lawrence • Dev Pro Tips</a></p>
