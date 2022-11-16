@@ -12,8 +12,8 @@
 <p>:white_circle: <a href="https://openweathermap.org/api">Weather API - OpenWeatherMap</a></p>
 <p>:white_circle: <a href="https://unsplash.com/developers">Background Images - Unsplash Developers</a></p>
 
-<h2><strong>Check out the page</strong></h2>
-<h3>:link:https://afonsoart.github.io/Tesla-Landing-Page-Clone/</h3>
+<h2><strong>Deploy</strong></h2>
+<h3>:link: <a href="https://www.youtube.com/@DevProTips">Weather Web Page</a></h3>
 
 <h2><strong>Taught by :</strong></h2>
 <p>:white_circle: <a href="https://www.youtube.com/@DevProTips">
