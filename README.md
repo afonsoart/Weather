@@ -10,7 +10,7 @@
 <p>:heavy_check_mark: HTML, CSS, JS</p>
 <h2><strong>APIs :</strong></h2>
 <p>:white_circle: <a href="https://openweathermap.org/api">Weather API - OpenWeatherMap</a></p>
-<p>:white_circle: <a href="https://openweathermap.org/api">Background Images - Unsplash Developers</a></p>
+<p>:white_circle: <a href="https://unsplash.com/developers">Background Images - Unsplash Developers</a></p>
 
 <h2><strong>Check out the page</strong></h2>
 <h3>:link:https://afonsoart.github.io/Tesla-Landing-Page-Clone/</h3>
