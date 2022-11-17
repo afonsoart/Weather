@@ -1,4 +1,5 @@
 <h1 align="center">Weather web page</h1>
+![Alt text of the image](https://github.com/afonsoart/Weather/blob/main/Wheather.png)
 <p align="center">Weather web page encontra as previsões e condições meteorológicas mais atuais acessando a API OpenWeatherMap em JavaScript</strong></p>
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
