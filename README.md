@@ -16,7 +16,7 @@
 <p>:white_circle: <a href="https://unsplash.com/developers">Background Images - Unsplash Developers</a></p>
 
 <h2><strong>Página da aplicação</strong></h2>
-<h3>:pager: <a href="https://www.youtube.com/@DevProTips">Weather Web Page</a></h3>
+<h3>:pager: <a href="https://afonsoart.github.io/Weather/">Weather Web Page</a></h3>
 
 <h2><strong>Ensinado por:</strong></h2>
 <p>:white_circle: <a href="https://www.youtube.com/@DevProTips">
